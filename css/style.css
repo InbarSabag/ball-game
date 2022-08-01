@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+    color: white
+}
+
+.cell {
+    width: 40px;
+    height: 40px;
+    text-align: center
+}
+
+.cell img {
+    width: 25px;
+    height: auto
+}
+
+.floor {
+    background-color: gray
+}
+
+.wall {
+    background-color: brown
+}
+
+.modal {
+    background-color: #a52a2a80;
+    width: 528px;
+    height: 440px;
+    position: absolute;
+    text-align: center;
+    display: none;
+}
+
+.winning {
+    margin-top: 26%;
+    color: #1bff00;
+}
+
+/* .play-again {
+     
+}*/
